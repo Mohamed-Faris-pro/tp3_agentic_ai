@@ -60,6 +60,10 @@ Ce dépôt contient un notebook complet dédié à l'apprentissage et à l'impl�
 <img width="757" height="390" alt="image" src="https://github.com/user-attachments/assets/4197e329-8eb9-4a04-998a-3bfaaa90f772" />
 <img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/de9897d9-73b9-4314-a242-83f8708835af" />
 <img width="766" height="287" alt="image" src="https://github.com/user-attachments/assets/04bf9c5f-ab73-4c92-b0bc-5fbf1cf425db" />
+
+#### Error handling
+
+
 <img width="760" height="272" alt="image" src="https://github.com/user-attachments/assets/765583ad-ccb9-4b59-b52e-1dc82815d182" />
 <img width="755" height="414" alt="image" src="https://github.com/user-attachments/assets/f45f850e-e7db-40ae-814a-195ab5a0553d" />
 <img width="758" height="284" alt="image" src="https://github.com/user-attachments/assets/69fa2ed3-8c1d-43cb-881b-083da903919d" />
