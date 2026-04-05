@@ -75,6 +75,9 @@ Ce dépôt contient un notebook complet dédié à l'apprentissage et à l'impl�
 ### Structured Output
 
 <img width="758" height="407" alt="image" src="https://github.com/user-attachments/assets/81a36d9a-b0ce-40e1-9382-d032662c286f" />
+
+### Custom Middleware
+
 <img width="762" height="391" alt="image" src="https://github.com/user-attachments/assets/492cbabf-989f-4c55-9c12-f3307e51d20b" />
 
 -----
