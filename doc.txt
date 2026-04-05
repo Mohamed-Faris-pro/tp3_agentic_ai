@@ -1,0 +1,14 @@
+Generated Python Code:
+list1 = [6,5,8,3,2]
+sorted_list1 = sorted(list1)
+list2 = [65,15,8,13,2]
+sorted_list2 = sorted(list2)
+sum_of_lists = [a + b for a, b in zip(sorted_list1, sorted_list2)]
+print(sorted_list1)
+print(sorted_list2)
+print(sum_of_lists)
+
+Execution Result:
+Sorted List 1: [2, 3, 5, 6, 8]
+Sorted List 2: [2, 8, 13, 15, 65]
+Sum of Lists: [4, 11, 18, 21, 73]
