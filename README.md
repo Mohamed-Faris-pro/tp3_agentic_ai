@@ -41,12 +41,15 @@ Ce dépôt contient un notebook complet dédié à l'apprentissage et à l'impl�
 <img width="758" height="301" alt="image" src="https://github.com/user-attachments/assets/00668317-c57b-47b9-aff4-592572555030" />
 <img width="755" height="199" alt="image" src="https://github.com/user-attachments/assets/bbb7c438-f392-4c6a-a8ab-6a99ffcb901f" />
 <img width="759" height="306" alt="image" src="https://github.com/user-attachments/assets/7366919a-25f6-4f05-82ca-96cf1d51278e" />
+#### DuckDuckGo
 <img width="754" height="357" alt="image" src="https://github.com/user-attachments/assets/abd85761-51be-48bf-8807-8ec8f2dfaa13" />
 <img width="756" height="343" alt="image" src="https://github.com/user-attachments/assets/a5164fe4-b14b-470a-a05c-b0626acc675e" />
 <img width="758" height="383" alt="image" src="https://github.com/user-attachments/assets/7d0c0cb1-d34c-4ab8-b627-14d5f7bf9b44" />
+#### Tavily
 <img width="757" height="122" alt="image" src="https://github.com/user-attachments/assets/50835efc-8e04-4513-b463-e7049398b21b" />
 <img width="756" height="377" alt="image" src="https://github.com/user-attachments/assets/6f9020c5-5aaf-41fc-83b5-6eba605738db" />
 <img width="757" height="390" alt="image" src="https://github.com/user-attachments/assets/4197e329-8eb9-4a04-998a-3bfaaa90f772" />
+#### PythonREPL
 <img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/de9897d9-73b9-4314-a242-83f8708835af" />
 <img width="766" height="287" alt="image" src="https://github.com/user-attachments/assets/04bf9c5f-ab73-4c92-b0bc-5fbf1cf425db" />
 <img width="760" height="272" alt="image" src="https://github.com/user-attachments/assets/765583ad-ccb9-4b59-b52e-1dc82815d182" />
