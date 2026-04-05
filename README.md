@@ -66,15 +66,21 @@ Ce dépôt contient un notebook complet dédié à l'apprentissage et à l'impl�
 
 <img width="760" height="272" alt="image" src="https://github.com/user-attachments/assets/765583ad-ccb9-4b59-b52e-1dc82815d182" />
 
+-----
+
 ### Controler le system prompt
 
 <img width="755" height="414" alt="image" src="https://github.com/user-attachments/assets/f45f850e-e7db-40ae-814a-195ab5a0553d" />
 <img width="758" height="284" alt="image" src="https://github.com/user-attachments/assets/69fa2ed3-8c1d-43cb-881b-083da903919d" />
 <img width="752" height="303" alt="image" src="https://github.com/user-attachments/assets/7619b8a6-f66d-4498-ae6e-2a29af3090a5" />
 
+-----
+
 ### Structured Output
 
 <img width="758" height="407" alt="image" src="https://github.com/user-attachments/assets/81a36d9a-b0ce-40e1-9382-d032662c286f" />
+
+-----
 
 ### Custom Middleware
 
